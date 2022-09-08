@@ -696,7 +696,8 @@ class TitleState extends MusicBeatState
 				// credTextShit.text += '\nNight';
 				case 16:
 					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
-case 16.5
+                                case 16.5:
+					
 					
 	
 				case 17:
