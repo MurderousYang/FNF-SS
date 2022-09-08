@@ -104,7 +104,7 @@ class VisualsUISubState extends BaseOptionsMenu
 			'pauseMusic',
 			'string',
 			'Relaxing Lucid Dream',
-			['None', 'Relaxing Lucid Dream', 'CreepyNightmare']);
+			['None', 'Relaxing Lucid Dream', 'Creepy Nightmare']);
 		addOption(option);
 		option.onChange = onChangePauseMusic;
 		
